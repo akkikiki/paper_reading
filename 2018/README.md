@@ -1,3 +1,8 @@
+## A Discriminative Latent-Variable Model for Bilingual Lexicon Induction, EMNLP 2018
+* https://arxiv.org/abs/1808.09334
+### What is interesting about this paper?
+* Enforcing 1:1 matiching for some subset of tranlsations
+
 ## Neural Cross-Lingual Named Entity Recognition with Minimal Resources, EMNLP 2018
 * https://arxiv.org/pdf/1808.09861.pdf
 ### What is interesting about this paper?
