@@ -1,3 +1,8 @@
+## Cheap Translation for Cross-Lingual Named Entity Recognition, EMNLP 2017
+* http://www.aclweb.org/anthology/D17-1269
+### What is interesting about this paper?
+* Explored how to use cross-lingual embeddings in the downstream task (Common space vs. hard mapping of vectors), only on cross-lingual CCA though
+
 ## Contextual String Embeddings for Sequence Labeling, COLING 2018
 * http://aclweb.org/anthology/C18-1139
 ### What is interesting about this paper?
