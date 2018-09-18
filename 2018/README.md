@@ -1,3 +1,8 @@
+## XNLI: Evaluating Cross-lingual Sentence Representations, EMNLP 2018
+* https://arxiv.org/abs/1809.05053
+### What is interesting about this paper?
+* Introduced new dataset for evaluating cross-lingual embedding in the downstream task
+
 ## Cheap Translation for Cross-Lingual Named Entity Recognition, EMNLP 2017
 * http://www.aclweb.org/anthology/D17-1269
 ### What is interesting about this paper?
