@@ -1,3 +1,13 @@
+## Compressing Word Embeddings via Deep Compositional Code Learning, ICLR 2018
+* https://openreview.net/pdf?id=BJRZzFlRb
+### What is interesting about this paper?
+* Simple yet effective way to compress the dimensions of word embeddings into integers
+
+## Gromov-Wasserstein Alignment of Word Embedding Spaces, EMNLP 2018
+* https://arxiv.org/pdf/1809.00013.pdf
+### What is interesting about this paper?
+* Replacing the refinement prcedure
+
 ## XNLI: Evaluating Cross-lingual Sentence Representations, EMNLP 2018
 * https://arxiv.org/abs/1809.05053
 ### What is interesting about this paper?
